@@ -1,0 +1,12 @@
+node_modules/
+.env
+.auth
+config.env
+package-lock.json
+temp/
+auto/
+.vscode/
+copy_nkp.sh
+nkp/config/
+nkp/database/
+nkp/project-custom
